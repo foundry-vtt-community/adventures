@@ -4,7 +4,7 @@ script:
   git config user.email "fvtt-travisci@mail.com"
   cd ..
   git clone https://github.com/foundry-vtt-community/wiki.wiki.git
-  cd modules
+  cd adventures
   mv .admin/header.md .&& mv .admin/update_adventures.sh .
   chmod a+x update_adventures.sh
   ./update_adventures.sh && git add README.md

@@ -1,5 +1,7 @@
 # Foundry VTT Adventures Repository
 
+[![Build Status](https://travis-ci.org/foundry-vtt-community/adventures.svg?branch=master)](https://travis-ci.org/foundry-vtt-community/adventures)
+
 Foundry adventures allow people to expand upon the default Foundry offerings are noted here.
 
 To clone this repository, along with every adventure in it, use the following command:

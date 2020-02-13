@@ -1,6 +1,6 @@
 # Foundry VTT Adventures Repository
 
-![CI for Adventures Repo](https://github.com/foundry-vtt-community/adventures/workflows/CI%20for%20Adventures%20Repo/badge.svg)
+[![Build Status](https://travis-ci.org/foundry-vtt-community/adventures.svg?branch=master)](https://travis-ci.org/foundry-vtt-community/adventures)
 
 Foundry adventures allow people to expand upon the default Foundry offerings are noted here.
 

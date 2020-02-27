@@ -21,5 +21,5 @@ git submodule update name-of-the-adventure
 
 
 ## [The Lost City of Barakus](Foundry%20VTT%20Adventures%20for%20DnD%205E/The-Lost-City-of-Barakus.md)
-(Grabbed from the product page) An elaborate underground city, an ancient necromancer, an alliance of wizards, and an arcane prison form the backdrop for this ENnie award-winning adventure book. The book contains enough to challenge characters from level 2 to level 6, but it is much more than just an adventure resource. The Lost City of Barakus contains the Lost Lands campaign information for the City of Endhome, the Penprie Forest, and the Duskmoon Hills. And, of course, for the Lost City of Barakus itself. This 143-page book is filled with adventures, NPCs, and locations for the party to explore, interact with, and conquer.
+*A quick note by u2mad: I've gotten permission to distribute this from the folks at Frog God games as long as the book/pdf for the adventure is still required and it isn't being sold.
 

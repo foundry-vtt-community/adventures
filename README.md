@@ -21,5 +21,5 @@ git submodule update name-of-the-adventure
 
 
 ## [The Lost City of Barakus](Foundry%20VTT%20Adventures%20for%20DnD%205E/The-Lost-City-of-Barakus.md)
-*A quick note by u2mad: I've gotten permission to distribute this from the folks at Frog God games as long as the book/pdf for the adventure is still required and it isn't being sold.
+**A quick note by u2mad:** I've gotten permission to distribute this from the folks at Frog God games as long as the book/pdf for the adventure is still required and it isn't being sold.<br>
 
